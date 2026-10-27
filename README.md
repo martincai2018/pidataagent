@@ -1,3 +1,7 @@
+<!-- pidataagent:fork-banner:start -->
+> **pidataagent** is a thin fork of [Datus-ai/Datus-agent](https://github.com/Datus-ai/Datus-agent) (Apache-2.0), customized for Doris/StarRocks EDW with DeepSeek and a self-built web UI. Upstream code under `datus/` is kept unmodified. Start here: [docs/pidataagent/SETUP.md](docs/pidataagent/SETUP.md) · Attribution: [NOTICE](NOTICE)
+<!-- pidataagent:fork-banner:end -->
+
 <p align="center">
   <strong>Datus · Open-Source Data Engineering Agent</strong>
 </p>

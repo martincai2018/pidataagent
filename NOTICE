@@ -1,0 +1,10 @@
+pidataagent
+Copyright 2026 pidataagent contributors
+
+This product includes software developed by the Datus project
+(https://github.com/Datus-ai/Datus-agent), licensed under the Apache
+License, Version 2.0.
+
+A verbatim copy of the Datus source code is bundled in the datus/
+directory. Copyright headers in those files are retained unchanged.
+The original project is the copyright holder of that bundled code.

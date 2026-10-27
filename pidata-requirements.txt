@@ -1,0 +1,5 @@
+# Installed with: uv pip install -r pidata-requirements.txt
+# Re-run after `uv sync` (use `uv sync --inexact` to keep these packages).
+# DB adapters auto-register via the "datus.adapters" entry-point group.
+datus-starrocks==0.1.12
+datus-doris==0.1.3

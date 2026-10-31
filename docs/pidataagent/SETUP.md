@@ -70,7 +70,7 @@ HF_ENDPOINT=https://hf-mirror.com .venv/Scripts/datus.exe -p "列出当前数据
 
 ## 同步上游
 
-见 [../../upstream-sync.md](../upstream-sync.md)（本仓库是 GitHub fork + 本地浅克隆）。
+见 [upstream-sync.md](../upstream-sync.md)（本仓库是 GitHub fork + 本地浅克隆）。
 
 ## 安全约定
 
